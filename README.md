@@ -5,11 +5,12 @@ Minimal boiler plate to create a dockerized Ruby on Rails 7 API only application
 
 ## Clone the application
 ```
-git clone https://github.com/betogrun/prelude.git your_application
+git clone https://github.com/betogrun/prelude-api.git your_application
+```
+or
 
-# or
-
-git clone git@github.com:betogrun/prelude.git your_application
+```
+git clone git@github.com:betogrun/prelude-api.git your_application
 ```
 
 ## Change the application name references
